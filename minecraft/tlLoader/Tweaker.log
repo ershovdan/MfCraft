@@ -1,0 +1,17 @@
+[2021-02-19 11:40:42] [main INFO] Using Tweaker
+[2021-02-19 11:40:42] [main INFO] Tweaker: acceptOptions
+[2021-02-19 11:40:42] [main INFO] Tweaker: injectIntoClassLoader
+[2021-02-19 11:40:42] [main INFO] Hook method bua#q()Lnf; loaded.
+[2021-02-19 11:40:42] [main INFO] Hook method bua#m()Lnf; loaded.
+[2021-02-19 11:40:42] [main INFO] Hook method bua#t()Ljava/lang/String; loaded.
+[2021-02-19 11:40:42] [main INFO] Hook method bua#s()Lnf; loaded.
+[2021-02-19 11:40:42] [main INFO] Hook method aed#a(Laee;)Z loaded.
+[2021-02-19 11:40:42] [main INFO] Hook method blr#a(IIF)V loaded.
+[2021-02-19 11:40:42] [main INFO] Loaded as a library.
+[2021-02-19 11:40:42] [main INFO] Tweaker: getLaunchArguments
+[2021-02-19 11:40:42] [main INFO] [TLSkinCape] Method aed.a(Laee;)Z successfully hooked.
+[2021-02-19 11:40:42] [main INFO] [TLSkinCape] Method bua.q()Lnf; successfully hooked.
+[2021-02-19 11:40:42] [main INFO] [TLSkinCape] Method bua.m()Lnf; successfully hooked.
+[2021-02-19 11:40:42] [main INFO] [TLSkinCape] Method bua.t()Ljava/lang/String; successfully hooked.
+[2021-02-19 11:40:42] [main INFO] [TLSkinCape] Method bua.s()Lnf; successfully hooked.
+[2021-02-19 11:40:42] [main INFO] [TLSkinCape] Method blr.a(IIF)V successfully hooked.

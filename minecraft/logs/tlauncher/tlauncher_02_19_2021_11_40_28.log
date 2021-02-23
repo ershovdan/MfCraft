@@ -1,0 +1,175 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.75 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 19.02.2021 11:40:29
+---
+run double running protection
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 16343 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+ NVIDIA GeForce GTX 1050 Ti, GeForce GTX 1050 Ti, 12189 MB, NVIDIA GeForce GTX 1050 Ti, GeForce GTX 1050 Ti, 12189 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.75&client=11ca9674-b09c-41e4-9d19-4fd9345f917d
+[Updater] Request time: 78 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Cleaning up after loading:
+Starting garbage collector: 31 / 196 MB
+Garbage collector completed: 18 / 233 MB
+[Loading] LOADING_MANAGERS
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[LocalVersionList] Base directory: E:\Users\ersho\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: E:\Users\ersho\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Loading] LOADING_WINDOW
+[Browser] Initializing...
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 182 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+[Browser@1157614008] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+Started! (3133 ms.)
+[Loading] SUCCESS
+[VersionManager] Refreshing versions remotely...
+[TLauncher] show tlauncher!!!
+[Double running] clear time label
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 67 ms.
+server id hasn't found = FunnyMC.ru
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 33 ms.
+[ExtraVersionList] Got in 61 ms
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 64 ms.
+[SkinVersionList] Got in 73 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 131 ms.
+[OfficialVersionList] Got in 209 ms
+[VersionManager] Versions has been refreshed (235 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 27 ms.
+run server on  37842
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 53 ms.
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.75
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: 1.12.2
+[Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=ershovdan}
+[Launcher] Version sync info: VersionSyncInfo{id='1.12.2',
+local=null,
+remote=PartialVersion{id='1.12.2', time=Fri Jun 28 10:05:57 MSK 2019, release=Mon Sep 18 11:39:46 MSK 2017, type=release, source=OFFICIAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@39afce74}, isInstalled=false, hasRemote=true, isUpToDate=false}
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 62 ms.
+[Launcher] Java path: C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file E:\Users\ersho\AppData\Roaming\.minecraft\assets\indexes\1.12.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 178 ms.
+[TLauncherManager] add required libraries: 1.12.2
+[VersionManager] Required for version 1.12.2: []
+[TLauncherManager] add required libraries: 1.12.2
+[TLauncherManager] library will be replaced: com.mojang:authlib:1.5.25
+[TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+[TLauncherManager] library will be added as required: net.minecraft:launchwrapper:1.12
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+[TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+[TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.12.2:1.14
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe -Djava.net.preferIPv4Stack=true -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx13831M -Djava.library.path=E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\natives -cp E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\tlauncher\tl_skin_cape_1.12.2\1.14\tl_skin_cape_1.12.2-1.14.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\6.2\asm-tree-6.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\6.2\asm-6.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\6.2\asm-commons-6.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\1.1\patchy-1.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\1.6.25\authlib-1.6.25.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.jar -Dminecraft.applet.TargetDirectory=E:\Users\ersho\AppData\Roaming\.minecraft -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true org.tlauncher.Launch1_12_2 --username ershovdan --version 1.12.2 --gameDir E:\Users\ersho\AppData\Roaming\.minecraft --assetsDir E:\Users\ersho\AppData\Roaming\.minecraft\assets --assetIndex 1.12 --uuid 00000000-0000-0000-0000-000000000000 --accessToken null --userType legacy --versionType release --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=VimeMC.ru, address=mc.vimemc.ru:25565, ip=mc.vimemc.ru, port=25565, hideAddress=true, acceptTextures=1)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft 1.12.2...
+[Launcher] Launching in: E:\Users\ersho\AppData\Roaming\.minecraft
+Starting garbage collector: 129 / 263 MB
+Garbage collector completed: 35 / 264 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[11:40:42] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[11:40:42] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[11:40:42] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+Log Path: E:\Users\ersho\AppData\Roaming\.minecraft\.\tlLoader\Tweaker.log
+[main INFO] Using Tweaker
+[main INFO] Tweaker: acceptOptions
+[main INFO] Tweaker: injectIntoClassLoader
+[TLSkinCape] Current TLSkinCape version is 1.14
+[TLSkinCape] Current Minecraft version is 1.12.2.
+[main INFO] Hook method bua#q()Lnf; loaded.
+[main INFO] Hook method bua#m()Lnf; loaded.
+[main INFO] Hook method bua#t()Ljava/lang/String; loaded.
+[main INFO] Hook method bua#s()Lnf; loaded.
+[main INFO] Hook method aed#a(Laee;)Z loaded.
+[main INFO] Hook method blr#a(IIF)V loaded.
+[main INFO] Loaded as a library.
+[main INFO] Tweaker: getLaunchArguments
+[11:40:42] [main/INFO]: Launching wrapped minecraft {org.tlauncher.Main1_12_2}
+[main INFO] [TLSkinCape] Method aed.a(Laee;)Z successfully hooked.
+[main INFO] [TLSkinCape] Method bua.q()Lnf; successfully hooked.
+[main INFO] [TLSkinCape] Method bua.m()Lnf; successfully hooked.
+[main INFO] [TLSkinCape] Method bua.t()Ljava/lang/String; successfully hooked.
+[main INFO] [TLSkinCape] Method bua.s()Lnf; successfully hooked.
+[main INFO] [TLSkinCape] Method blr.a(IIF)V successfully hooked.
+[11:40:43] [main/INFO]: Setting user: ershovdan
+[11:40:44] [main/INFO]: [STDOUT]: [Connector] Init connector...
+[11:40:44] [main/INFO]: [STDOUT]: [Connector] Inited.
+[11:40:44] [main/INFO]: LWJGL Version: 2.9.4
+[11:40:45] [main/INFO]: Reloading ResourceManager: Default
+[11:40:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:40:45] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[11:40:45] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:40:45] [Thread-3/INFO]: OpenAL initialized.
+[11:40:46] [Sound Library Loader/INFO]: Sound engine started
+[11:40:51] [main/INFO]: Created: 1024x512 textures-atlas
+[11:40:53] [main/INFO]: Narrator library for x64 successfully loaded
+[11:40:53] [main/INFO]: [STDOUT]: [TLSkinCape] Current TLSkinCape version is 1.14
+[11:40:53] [main/INFO]: [STDOUT]: [TLSkinCape] Current Minecraft version is 1.12.2.
+[11:40:54] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[11:40:56] [main/INFO]: Stopping!
+[11:40:56] [main/INFO]: SoundSystem shutting down...
+[11:40:57] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (10 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+Good bye!
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now

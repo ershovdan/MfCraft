@@ -1,0 +1,33 @@
+{
+  "version": "1",
+  "mods": [
+    "AmbientSounds_v3.0.18_mc1.12.2.jar",
+    "backpack_3.0.2_1.12.2.jar",
+    "Baubles_1.12_1.5.2.jar",
+    "BetterFps_1.12.2_1.4.8.jar",
+    "Botania_1.12.2_r1.10_363.jar",
+    "car-1.12.2-1.2.12.jar",
+    "CreativeCore_v1.10.45_mc1.12.2.jar",
+    "forestry_1.12.2_5.8.2.414.jar",
+    "furniture_6.3.0_1.12.2 (2).jar",
+    "Galacticraft-Planets-1.12.2-4.0.2.281.jar",
+    "GalacticraftCore-1.12.2-4.0.2.281.jar",
+    "gravestone_mc1.12.2_1.10.0.jar",
+    "industrialcraft_2_2.8.221_ex112.jar",
+    "ironchest-1.12.2-7.0.72.847.jar",
+    "jei_1.12.2_4.16.1.301.jar",
+    "journeymap_1.12.2_5.7.1.jar",
+    "Mantle-1.12-1.3.3.55.jar",
+    "mcw_roofs_1.0.2_mc1.12.2.jar",
+    "mcw_windows_1.0.0_mc1.12.2.jar",
+    "MicdoodleCore-1.12.2-4.0.2.281.jar",
+    "MorePlayerModels_1.12.2_05Dec19.jar",
+    "OptiFine_1.12.2_HD_U_F5.jar",
+    "SoundFilters_0.12.1_for_1.12.jar",
+    "TConstruct-1.12.2-2.13.0.183.jar",
+    "thutcore-1.12.2-5.19.8.jar",
+    "thuttech-1.12.2-6.1.5.jar",
+    "tlskincape_1.12.2-1.4.jar",
+    "trafficcontrol_1.12.2_0.3.5.jar"
+  ]
+}

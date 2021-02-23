@@ -1,0 +1,594 @@
+[Info: 2021-02-18 07:52:37.5982014: NetQueue.cpp(148)] NetQueue: Setting up.
+[Info: 2021-02-18 07:52:37.5983297: mainWindows.cpp(81)] Running launcher bootstrap (version 875)
+[Error: 2021-02-18 07:52:37.6385540: Settings.cpp(33)] Failed to determine configuration file size: Не удается найти указанный файл.
+
+[Info: 2021-02-18 07:52:37.6410359: NetQueue.cpp(148)] NetQueue: Setting up.
+[Error: 2021-02-18 07:52:37.6674417: Settings.cpp(33)] Failed to determine configuration file size: Не удается найти указанный файл.
+
+[Info: 2021-02-18 07:52:37.6676231: Common.cpp(32)] Native Launcher Version: 875
+[Info: 2021-02-18 07:52:37.6677169: Common.cpp(33)] Operating System: Windows 10 Home
+[Info: 2021-02-18 07:52:37.6680456: Common.cpp(34)] Application Data directory: ...\.minecraft
+[Info: 2021-02-18 07:52:37.6682879: Common.cpp(35)] Executable Path: /.../MinecraftLauncher.exe
+[Info: 2021-02-18 07:52:37.6683389: Common.cpp(36)] App Directory dir: ...\MineCraft Launcher
+[Info: 2021-02-18 07:52:37.6683810: Common.cpp(37)] Game data directory: ...\.minecraft
+[Info: 2021-02-18 07:52:37.6684180: Common.cpp(38)] Launcher dir: ...\MineCraft Launcher\game
+[Info: 2021-02-18 07:52:37.6684538: Common.cpp(39)] Java dir: ...\MineCraft Launcher\runtime\jre-x64
+[Info: 2021-02-18 07:52:37.6684917: Common.cpp(40)] TmpDir dir: ...\MinecraftLauncher
+[Info: 2021-02-18 07:52:37.6685336: Common.cpp(41)] x64: true
+[Info: 2021-02-18 07:52:37.6685646: LauncherConfiguration.cpp(291)] Using update preferences at path: ...\.minecraft\launcher_profiles.json
+[Info: 2021-02-18 07:52:37.6689302: LauncherConfiguration.cpp(294)] Failed to read update preferences from ...\.minecraft\launcher_profiles.json
+[Info: 2021-02-18 07:52:37.6689843: LauncherConfiguration.cpp(305)] Using update preferences at path: ...\.minecraft\launcher_settings.json
+[Info: 2021-02-18 07:52:37.6698276: NetQueue.cpp(521)] NetQueue: worker thread started.
+[Info: 2021-02-18 07:52:37.6730885: NetQueue.cpp(537)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-02-18 07:52:37.7733419: NetQueue.cpp(391)] NetQueue: Primary ip: 13.32.43.20, Host: launchermeta.mojang.com
+[Info: 2021-02-18 07:52:37.7733831: NetQueue.cpp(466)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-02-18 07:52:37.7734000: NetQueue.cpp(487)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-02-18 07:52:37.7736887: LauncherConfiguration.cpp(198)] Deciding on update with strategy 0 and clientID 0
+[Info: 2021-02-18 07:52:37.7737299: LauncherConfiguration.cpp(214)] Version of launcher-bootstrap is current, no action is necessary.
+[Info: 2021-02-18 07:52:37.7737606: LauncherConfiguration.cpp(247)] Bootstrap is current
+[Info: 2021-02-18 07:52:37.7739878: LauncherConfiguration.cpp(198)] Deciding on update with strategy 0 and clientID 0
+[Info: 2021-02-18 07:52:37.7740231: LauncherConfiguration.cpp(214)] Version of launcher-core is current, no action is necessary.
+[Info: 2021-02-18 07:52:37.7740509: LauncherConfiguration.cpp(247)] Bootstrap is current
+[Info: 2021-02-18 07:52:37.7742354: LauncherConfiguration.cpp(198)] Deciding on update with strategy 0 and clientID 0
+[Info: 2021-02-18 07:52:37.7742666: LauncherConfiguration.cpp(214)] Version of jre-x64 is current, no action is necessary.
+[Info: 2021-02-18 07:52:37.7742902: LauncherConfiguration.cpp(247)] Bootstrap is current
+[Info: 2021-02-18 07:52:37.7743350: StartLibrary.cpp(70)] Starting ...\MineCraft Launcher\game\launcher.dll with ...\MineCraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2021-02-18 07:52:37.7853208: StartLibrary.cpp(87)] Running launcher!
+[Info: 2021-02-18 07:52:37.7859872: LauncherMain.cpp(88)] Initiated models
+[Info: 2021-02-18 07:52:37.7874198: NetQueue.cpp(154)] NetQueue: Setting up.
+[Info: 2021-02-18 07:52:37.7874680: LauncherMain.cpp(217)] Running launcher core (version 2.2.1431)
+[Info: 2021-02-18 07:52:37.7877171: LauncherMain.cpp(230)] Initialization completed
+[Info: 2021-02-18 07:52:37.7880904: LauncherMain.cpp(253)] Main process: true
+[Info: 2021-02-18 07:52:37.7881436: LauncherMain.cpp(299)] workDir: ...\.minecraft
+[Info: 2021-02-18 07:52:37.7881751: LauncherMain.cpp(307)] appDir: ...\MineCraft Launcher
+[Info: 2021-02-18 07:52:37.7884956: LauncherMain.cpp(344)] Launcher core version: 2.2.1431 (8586e8f7ae4d530f341064b020ad5bcb71d9b805)
+[Info: 2021-02-18 07:52:37.7885835: NetQueue.cpp(154)] NetQueue: Setting up.
+[Info: 2021-02-18 07:52:37.7886484: LauncherController.cpp(422)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 1
+[Error: 2021-02-18 07:52:37.7905854: SettingsManager.cpp(111)] : Deserializing: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[Error: 2021-02-18 07:52:37.7906305: SettingsManager.cpp(111)] : Deserializing: Expected object
+[Error: 2021-02-18 07:52:37.7906574: SettingsManager.cpp(116)] Failed parsing main configuration file: ...\.minecraft\launcher_settings.json
+[Info: 2021-02-18 07:52:37.7926470: ProfilesFileData.cpp(202)] Reading preferences on path: E:\Users\ersho\AppData\Roaming\.minecraft\launcher_profiles.json
+[Info: 2021-02-18 07:52:37.7927250: ProfilesFileData.cpp(233)] Deserializing modern profile
+[Info: 2021-02-18 07:52:37.7931864: GameVersionManager.cpp(219)] Couldn't read local cache of the Mojang versions manifest: generic:2
+[Info: 2021-02-18 07:52:37.7933189: GameVersionManager.cpp(251)] Looking for installed versions in ...\.minecraft\versions
+[Info: 2021-02-18 07:52:37.7938232: GameVersionManager.cpp(292)] Parsing version 1.12.2
+[Warning: 2021-02-18 07:52:37.7944785: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[0].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7945009: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[10].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7945156: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[11].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7945290: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[12].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7945421: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[13].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7945552: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[14].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7945679: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[15].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7945808: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[16].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7945941: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[17].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7946071: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[18].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7946200: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[19].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7946328: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[1].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7946455: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[20].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7946582: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[21].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7947088: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[22].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7947269: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[23].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7947406: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[24].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7947539: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[25].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7947668: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[26].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7947797: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[27].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7947925: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[28].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7948053: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[29].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7948181: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[2].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7948310: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[30].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7948438: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[30].classifies: Unknown key
+[Warning: 2021-02-18 07:52:37.7948568: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[31].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7948696: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[32].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7948826: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[33].classifies: Unknown key
+[Warning: 2021-02-18 07:52:37.7948954: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[34].classifies: Unknown key
+[Warning: 2021-02-18 07:52:37.7949081: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[35].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7949210: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[36].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7949338: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[36].classifies: Unknown key
+[Warning: 2021-02-18 07:52:37.7949465: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[37].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7949592: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[37].classifies: Unknown key
+[Warning: 2021-02-18 07:52:37.7949720: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[38].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7949849: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[3].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7949981: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[4].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7950122: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[5].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7950262: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[6].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7950393: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[7].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7950522: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[8].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7950651: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.libraries[9].artifact: Unknown key
+[Warning: 2021-02-18 07:52:37.7950778: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.skinVersion: Unknown key
+[Warning: 2021-02-18 07:52:37.7950906: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.source: Unknown key
+[Warning: 2021-02-18 07:52:37.7951042: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.json.tlauncherVersion: Unknown key
+[Info: 2021-02-18 07:52:37.7957193: GameVersionManager.cpp(292)] Parsing version 1.12.2-forge1.12.2-14.23.5.2847
+[Warning: 2021-02-18 07:52:37.7960266: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[10].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7960476: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[10].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7960636: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[10].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7960778: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[11].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7960916: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[11].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7961055: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[11].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7961192: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[12].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7961328: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[12].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7961465: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[12].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7961600: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[13].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7961733: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[13].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7961867: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[13].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7962359: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[14].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7962545: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[14].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7962689: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[14].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7962827: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[15].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7962962: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[15].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7963097: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[15].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7963230: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[16].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7963364: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[17].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7963499: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[18].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7963634: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[18].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7963769: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[19].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7963919: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[19].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7964059: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[1].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7964199: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[20].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7964333: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[20].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7964468: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[2].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7964605: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[2].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7964741: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[2].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7964888: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[3].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7965033: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[3].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7965171: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[3].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7965309: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[4].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7965445: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[4].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7965578: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[5].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7965715: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[5].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7965851: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[5].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7965987: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[6].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7966122: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[6].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7966257: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[6].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7966391: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[7].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7966525: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[7].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7966663: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[7].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7966798: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[8].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7966934: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[8].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7967071: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[8].serverreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7967205: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[9].checksums: Unknown key
+[Warning: 2021-02-18 07:52:37.7967352: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[9].clientreq: Unknown key
+[Warning: 2021-02-18 07:52:37.7967496: GameVersionManager.cpp(306)] E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2847\1.12.2-forge1.12.2-14.23.5.2847.json.libraries[9].serverreq: Unknown key
+[Info: 2021-02-18 07:52:37.7970735: NetQueue.cpp(529)] NetQueue: worker thread started.
+[Info: 2021-02-18 07:52:37.7980604: NetQueue.cpp(545)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-02-18T07:52:37Z
+[Info: 2021-02-18 07:52:37.8955050: NetQueue.cpp(397)] NetQueue: Primary ip: 13.32.43.20, Host: launchermeta.mojang.com
+[Info: 2021-02-18 07:52:37.8955499: NetQueue.cpp(473)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-02-18T07:52:37Z
+[Info: 2021-02-18 07:52:37.8955679: NetQueue.cpp(495)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-02-18T07:52:37Z
+[Info: 2021-02-18 07:52:37.8956397: GameVersionManager.cpp(368)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-02-18T07:52:37Z
+[Info: 2021-02-18 07:52:37.9047186: GameVersionManager.cpp(438)] Request version details for: 1.12.2
+[Info: 2021-02-18 07:52:37.9048891: NetQueue.cpp(545)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/6e69e85d0f85f4f4b9e12dd99d102092a6e15918/1.12.2.json
+[Info: 2021-02-18 07:52:37.9203651: NetQueue.cpp(397)] NetQueue: Primary ip: 13.32.43.20, Host: launchermeta.mojang.com
+[Info: 2021-02-18 07:52:37.9204105: NetQueue.cpp(473)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/6e69e85d0f85f4f4b9e12dd99d102092a6e15918/1.12.2.json
+[Info: 2021-02-18 07:52:37.9204279: NetQueue.cpp(495)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/6e69e85d0f85f4f4b9e12dd99d102092a6e15918/1.12.2.json
+[Info: 2021-02-18 07:52:37.9204967: GameVersionManager.cpp(478)] Got game version 1.12.2 manifest from https://launchermeta.mojang.com/v1/packages/6e69e85d0f85f4f4b9e12dd99d102092a6e15918/1.12.2.json
+[Info: 2021-02-18 07:52:37.9220305: GameVersionManager.cpp(438)] Request version details for: 1.16.5
+[Info: 2021-02-18 07:52:37.9222066: NetQueue.cpp(545)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/436877ffaef948954053e1a78a366b8b7c204a91/1.16.5.json
+[Info: 2021-02-18 07:52:37.9370764: NetQueue.cpp(397)] NetQueue: Primary ip: 13.32.43.20, Host: launchermeta.mojang.com
+[Info: 2021-02-18 07:52:37.9371190: NetQueue.cpp(473)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/436877ffaef948954053e1a78a366b8b7c204a91/1.16.5.json
+[Info: 2021-02-18 07:52:37.9371347: NetQueue.cpp(495)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/436877ffaef948954053e1a78a366b8b7c204a91/1.16.5.json
+[Info: 2021-02-18 07:52:37.9372089: GameVersionManager.cpp(478)] Got game version 1.16.5 manifest from https://launchermeta.mojang.com/v1/packages/436877ffaef948954053e1a78a366b8b7c204a91/1.16.5.json
+[Info: 2021-02-18 07:52:37.9399500: GameVersionManager.cpp(438)] Request version details for: 21w07a
+[Info: 2021-02-18 07:52:37.9401312: NetQueue.cpp(545)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/408f6ae49e28f2cabbef3dc91898a53bf4414180/21w07a.json
+[Info: 2021-02-18 07:52:37.9558744: NetQueue.cpp(397)] NetQueue: Primary ip: 13.32.43.20, Host: launchermeta.mojang.com
+[Info: 2021-02-18 07:52:37.9559171: NetQueue.cpp(473)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/408f6ae49e28f2cabbef3dc91898a53bf4414180/21w07a.json
+[Info: 2021-02-18 07:52:37.9559331: NetQueue.cpp(495)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/408f6ae49e28f2cabbef3dc91898a53bf4414180/21w07a.json
+[Info: 2021-02-18 07:52:37.9559803: GameVersionManager.cpp(478)] Got game version 21w07a manifest from https://launchermeta.mojang.com/v1/packages/408f6ae49e28f2cabbef3dc91898a53bf4414180/21w07a.json
+[Info: 2021-02-18 07:52:37.9592461: ProductManager.cpp(212)] Product library dir set to E:\Users\ersho\AppData\Local\Mojang\products
+[Info: 2021-02-18 07:52:37.9595622: AccountData.cpp(317)] Migrating user accounts from profiles file...
+[Info: 2021-02-18 07:52:37.9596983: SkinManager.cpp(248)] Failed to read skins file: ...\.minecraft\launcher_skins.json Errno such file or directory
+[Info: 2021-02-18 07:52:37.9598291: NetQueue.cpp(545)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-02-18 07:52:37.9985163: LauncherAppBrowser.cpp(57)] Work dir is ...\.minecraft
+[Info: 2021-02-18 07:52:38.0128022: root_window_manager.cpp(82)] Main window has been opened: 0369DFB0
+[Info: 2021-02-18 07:52:38.0494907: NetQueue.cpp(397)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2021-02-18 07:52:38.0495354: NetQueue.cpp(473)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-02-18 07:52:38.0495534: NetQueue.cpp(495)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-02-18 07:52:38.0497856: NetQueue.cpp(545)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/3178aa4dbc085f1d50db86ee52271a5747741a78/manifest.json
+[Info: 2021-02-18 07:52:38.0683438: NetQueue.cpp(397)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2021-02-18 07:52:38.0683913: NetQueue.cpp(473)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/3178aa4dbc085f1d50db86ee52271a5747741a78/manifest.json
+[Info: 2021-02-18 07:52:38.0684101: NetQueue.cpp(495)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/3178aa4dbc085f1d50db86ee52271a5747741a78/manifest.json
+[Info: 2021-02-18 07:52:38.2528117: LauncherMain.cpp(88)] Initiated models
+[Info: 2021-02-18 07:52:38.2529432: NetQueue.cpp(154)] NetQueue: Setting up.
+[Info: 2021-02-18 07:52:38.2529752: LauncherMain.cpp(217)] Running launcher core (version 2.2.1431)
+[Info: 2021-02-18 07:52:38.2533192: LauncherMain.cpp(230)] Initialization completed
+[Info: 2021-02-18 07:52:38.2538655: LauncherMain.cpp(253)] Main process: false
+[Info: 2021-02-18 07:52:38.2539194: LauncherMain.cpp(299)] workDir: ...\.minecraft
+[Info: 2021-02-18 07:52:38.2539458: LauncherMain.cpp(307)] appDir: ...
+[Info: 2021-02-18 07:52:38.2540205: NetQueue.cpp(154)] NetQueue: Setting up.
+[Info: 2021-02-18 07:52:38.2541041: LauncherController.cpp(422)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 0
+[Info: 2021-02-18 07:52:38.2694526: LauncherAppRenderer.cpp(126)] Javascript bridge extended in OnWebKitInitialized.
+[Info: 2021-02-18 07:52:38.3002800: NetQueue.cpp(545)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-02-18 07:52:38.3168595: NetQueue.cpp(397)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2021-02-18 07:52:38.3169108: NetQueue.cpp(473)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-02-18 07:52:38.3169290: NetQueue.cpp(495)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-02-18 07:52:38.3171328: NetQueue.cpp(545)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/3178aa4dbc085f1d50db86ee52271a5747741a78/manifest.json
+[Info: 2021-02-18 07:52:38.3362394: NetQueue.cpp(397)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2021-02-18 07:52:38.3363387: NetQueue.cpp(473)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/3178aa4dbc085f1d50db86ee52271a5747741a78/manifest.json
+[Info: 2021-02-18 07:52:38.3363619: NetQueue.cpp(495)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/3178aa4dbc085f1d50db86ee52271a5747741a78/manifest.json
+[Info: 2021-02-18 07:52:38.9791926: LauncherAppRenderer.cpp(271)] Creating renderer context
+[Info: 2021-02-18 07:52:39.0719450: LauncherAppRenderer.cpp(451)] Javascript bridge extended in OnContextCreated.
+[Info: 2021-02-18 07:52:39.4846004: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2021-02-18 07:52:39.4868177: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2021-02-18 07:52:39.5326503: ControllerInterface.cpp(134)] Running async method checkForUpdates
+[Info: 2021-02-18 07:52:39.5328652: NetQueue.cpp(545)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-02-18 07:52:39.5329167: client_handler.cpp(225)] Handling PostTelemetryEvent message
+[Info: 2021-02-18 07:52:39.5351661: ControllerInterface.cpp(106)] Running method getAccountData
+[Info: 2021-02-18 07:52:39.5352809: UnifiedAccounts.cpp(171)] Internet state in main process: online=1
+[Info: 2021-02-18 07:52:39.5444852: NetQueue.cpp(397)] NetQueue: Primary ip: 13.32.43.20, Host: launchermeta.mojang.com
+[Info: 2021-02-18 07:52:39.5445379: NetQueue.cpp(473)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-02-18 07:52:39.5447738: NetQueue.cpp(495)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-02-18 07:52:41.1387047: ControllerInterface.cpp(106)] Running method setInternetState
+[Info: 2021-02-18 07:52:41.1387643: ControllerInterface.cpp(106)] Running method onInternetStateChange
+[Info: 2021-02-18 07:52:41.1387931: UnifiedAccounts.cpp(184)] Internet state: online=1
+[Info: 2021-02-18 07:52:41.1389750: NetQueue.cpp(545)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-02-18T07:52:41Z
+[Info: 2021-02-18 07:52:41.1669926: NetQueue.cpp(397)] NetQueue: Primary ip: 13.32.43.20, Host: launchermeta.mojang.com
+[Info: 2021-02-18 07:52:41.1670427: NetQueue.cpp(473)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-02-18T07:52:41Z
+[Info: 2021-02-18 07:52:41.1670611: NetQueue.cpp(495)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-02-18T07:52:41Z
+[Info: 2021-02-18 07:52:41.1671281: GameVersionManager.cpp(368)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-02-18T07:52:41Z
+[Info: 2021-02-18 07:52:52.6470699: ControllerInterface.cpp(106)] Running method loginWithCredentials
+[Info: 2021-02-18 07:52:52.6472814: NetQueue.cpp(545)] NetQueue: Starting net action https://authserver.mojang.com/authenticate
+[Info: 2021-02-18 07:52:52.9268123: NetQueue.cpp(397)] NetQueue: Primary ip: 13.32.57.69, Host: authserver.mojang.com
+[Info: 2021-02-18 07:52:52.9268935: NetQueue.cpp(473)] NetQueue: Action finished: https://authserver.mojang.com/authenticate
+[Info: 2021-02-18 07:52:52.9269117: NetQueue.cpp(495)] NetQueue: Action finalized: https://authserver.mojang.com/authenticate
+[Info: 2021-02-18 07:52:52.9271038: NetQueue.cpp(545)] NetQueue: Starting net action https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-02-18 07:52:53.3972782: NetQueue.cpp(397)] NetQueue: Primary ip: 52.1.247.102, Host: api.minecraftservices.com
+[Info: 2021-02-18 07:52:53.3973247: NetQueue.cpp(473)] NetQueue: Action finished: https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-02-18 07:52:53.3973426: NetQueue.cpp(495)] NetQueue: Action finalized: https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-02-18 07:52:53.3977842: NetQueue.cpp(154)] NetQueue: Setting up.
+[Info: 2021-02-18 07:52:53.4004222: Xal.lib(0)] XAL: Initializing Xal 2019.10.20190918.001, Win32 platform
+[Info: 2021-02-18 07:52:53.4004896: Xal.lib(0)] XAL: Init args:
+[Info: 2021-02-18 07:52:53.4005267: Xal.lib(0)] XAL:     sandbox: 
+[Info: 2021-02-18 07:52:53.4005484: Xal.lib(0)] XAL:     disableDiagnosticTelemetry: false
+[Info: 2021-02-18 07:52:53.4005716: Xal.lib(0)] XAL:     correlationVector: (null)
+[Info: 2021-02-18 07:52:53.4005936: Xal.lib(0)] XAL:     flags: 91000000
+[Info: 2021-02-18 07:52:53.4006136: Xal.lib(0)] XAL:     thirdPartyConsent (0)
+[Info: 2021-02-18 07:52:53.4006333: Xal.lib(0)] XAL:     redirectUri: 
+[Warning: 2021-02-18 07:52:53.4006803: Xal.lib(0)] XAL: Expected REG_SZ type for SOFTWARE\Microsoft\XboxLive\Sandbox, found 0 instead
+[Info: 2021-02-18 07:52:53.4018741: Xal.lib(0)] XAL: Diagnostic telemetry disabled: false
+[Info: 2021-02-18 07:52:53.4022359: Xal.lib(0)] XAL_TELEMETRY: AppActivation Version="2019.10.20190918.001"
+[Info: 2021-02-18 07:52:53.4023459: Xal.lib(0)] XAL: [0369D058] Operation InitializeComponents is starting with CV 'wzUot78mTE6oN7YW.0.0'
+[Info: 2021-02-18 07:52:53.4024388: Xal.lib(0)] XAL: [0A7A6F58] Operation InitializeTokenStack is starting with CV 'wzUot78mTE6oN7YW.0.0'
+[Info: 2021-02-18 07:52:53.4025852: Xal.lib(0)] XAL: [0369D0C8] Operation LoadClockSkew is starting with CV 'wzUot78mTE6oN7YW.0.0'
+[Info: 2021-02-18 07:52:53.4026212: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageReadPlatformOperation starting
+[Info: 2021-02-18 07:52:53.4430908: client_handler.cpp(225)] Handling PostTelemetryEvent message
+[Info: 2021-02-18 07:52:53.4915609: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2021-02-18 07:52:53.5018717: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2021-02-18 07:52:53.5021632: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-02-18 07:52:53.5022934: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageReadPlatformOperation succeeded
+[Info: 2021-02-18 07:52:53.6045871: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageReadPlatformOperation continuing
+[Info: 2021-02-18 07:52:53.6047622: Xal.lib(0)] XAL: No saved clock skew data found.
+[Info: 2021-02-18 07:52:53.6047935: Xal.lib(0)] XAL: [0369D0C8] Operation LoadClockSkew succeeded.
+[Info: 2021-02-18 07:52:53.6048861: Xal.lib(0)] XAL: Clock skew loaded. System time: 2021-02-18T07:52:53.6040000Z + skew (seconds) 0 = Server time: 2021-02-18T07:52:53.6040000Z
+[Info: 2021-02-18 07:52:53.6050389: Xal.lib(0)] XAL: [0A16E648] Operation LoadDeviceIdentity is starting with CV 'wzUot78mTE6oN7YW.0.0'
+[Info: 2021-02-18 07:52:53.6051358: Xal.lib(0)] XAL: [0A0C13F0] Client operation StorageReadPlatformOperation starting
+[Info: 2021-02-18 07:52:53.6052513: Xal.lib(0)] XAL: [0A0C13F0] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2021-02-18 07:52:53.6054607: Xal.lib(0)] XAL: [0A0C13F0] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-02-18 07:52:53.6055487: Xal.lib(0)] XAL: [0A0C13F0] Client operation StorageReadPlatformOperation succeeded
+[Info: 2021-02-18 07:52:53.7080803: Xal.lib(0)] XAL: [0A0C13F0] Client operation StorageReadPlatformOperation continuing
+[Warning: 2021-02-18 07:52:53.7082708: Xal.lib(0)] XAL: [0A16E648] No device identity found
+[Info: 2021-02-18 07:52:53.7092496: Xal.lib(0)] XAL: [0A0C18A0] Client operation StorageWritePlatformOperation starting
+[Info: 2021-02-18 07:52:53.7093606: Xal.lib(0)] XAL: [0A0C18A0] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2021-02-18 07:52:53.7095803: Xal.lib(0)] XAL: [0A0C18A0] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-02-18 07:52:53.7096710: Xal.lib(0)] XAL: [0A0C18A0] Client operation StorageWritePlatformOperation succeeded
+[Info: 2021-02-18 07:52:53.8120539: Xal.lib(0)] XAL: [0A0C18A0] Client operation StorageWritePlatformOperation continuing
+[Info: 2021-02-18 07:52:53.8122850: Xal.lib(0)] XAL: [0A16E648] Operation LoadDeviceIdentity succeeded.
+[Info: 2021-02-18 07:52:53.8125495: Xal.lib(0)] XAL: [00854500] Operation NsalDb_LoadDefaultNsal is starting with CV 'wzUot78mTE6oN7YW.0.0'
+[Info: 2021-02-18 07:52:53.8130914: NetQueue.cpp(529)] NetQueue: worker thread started.
+[Info: 2021-02-18 07:52:53.8147403: NetQueue.cpp(545)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2021-02-18 07:52:54.6297373: NetQueue.cpp(397)] NetQueue: Primary ip: 40.90.222.80, Host: title.mgt.xboxlive.com
+[Info: 2021-02-18 07:52:54.6297893: NetQueue.cpp(473)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2021-02-18 07:52:54.6298926: NetQueue.cpp(495)] NetQueue: Action finalized: title.mgt.xboxlive.com
+[Info: 2021-02-18 07:52:54.6316494: Xal.lib(0)] XAL: [00854500] Operation NsalDb_LoadDefaultNsal succeeded.
+[Info: 2021-02-18 07:52:54.6318526: Xal.lib(0)] XAL: [037E1870] Operation GetDtoken is starting with CV 'wzUot78mTE6oN7YW.0.1'
+[Info: 2021-02-18 07:52:54.6318850: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (00002EE8CD4FBD18)
+[Info: 2021-02-18 07:52:54.6319126: Xal.lib(0)] XAL: Failed to find requested token in cache: [identityType:1, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]
+[Info: 2021-02-18 07:52:54.6319374: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (00002EE8CD4FBD18)
+[Info: 2021-02-18 07:52:54.6320270: Xal.lib(0)] XAL: [0B3EC700] Operation RefreshDtoken is starting with CV 'wzUot78mTE6oN7YW.0.1'
+[Info: 2021-02-18 07:52:54.6320517: Xal.lib(0)] XAL: [operation 0B3EC700] RefreshDtoken token fetch started.
+[Info: 2021-02-18 07:52:54.6330032: NetQueue.cpp(545)] NetQueue: Starting net action device.auth.xboxlive.com
+[Info: 2021-02-18 07:52:54.9055765: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2021-02-18 07:52:55.8579626: NetQueue.cpp(397)] NetQueue: Primary ip: 134.170.179.87, Host: device.auth.xboxlive.com
+[Info: 2021-02-18 07:52:55.8580112: NetQueue.cpp(473)] NetQueue: Action finished: device.auth.xboxlive.com
+[Info: 2021-02-18 07:52:55.8581554: NetQueue.cpp(495)] NetQueue: Action finalized: device.auth.xboxlive.com
+[Info: 2021-02-18 07:52:55.9661492: Xal.lib(0)] XAL: Clock skew updated. Server time: 2021-02-18T07:52:55.7770000Z - System time: 2021-02-18T07:52:55.9650000Z = skew (seconds) 0
+[Info: 2021-02-18 07:52:55.9662598: Xal.lib(0)] XAL: [0B384B38] Operation SaveClockSkew is starting with CV 'wzUot78mTE6oN7YW.0.2'
+[Info: 2021-02-18 07:52:55.9662944: Xal.lib(0)] XAL: [0A0C1260] Client operation StorageWritePlatformOperation starting
+[Info: 2021-02-18 07:52:55.9663959: Xal.lib(0)] XAL: [0A0C1260] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2021-02-18 07:52:55.9666312: Xal.lib(0)] XAL: [0A0C1260] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-02-18 07:52:55.9667122: Xal.lib(0)] XAL: [0A0C1260] Client operation StorageWritePlatformOperation succeeded
+[Info: 2021-02-18 07:52:56.0902032: Xal.lib(0)] XAL: [0A0C1260] Client operation StorageWritePlatformOperation continuing
+[Info: 2021-02-18 07:52:56.0904047: Xal.lib(0)] XAL: [0B384B38] Operation SaveClockSkew succeeded.
+[Info: 2021-02-18 07:52:56.0906278: Xal.lib(0)] XAL: [03491680] Operation WriteCacheData is starting with CV 'wzUot78mTE6oN7YW.0.2'
+[Info: 2021-02-18 07:52:56.0906627: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageWritePlatformOperation starting
+[Info: 2021-02-18 07:52:56.0907571: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2021-02-18 07:52:56.0909514: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-02-18 07:52:56.0910369: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageWritePlatformOperation succeeded
+[Info: 2021-02-18 07:52:56.2148451: Xal.lib(0)] XAL: [0A0C0CE8] Client operation StorageWritePlatformOperation continuing
+[Info: 2021-02-18 07:52:56.2149930: Xal.lib(0)] XAL: [03491680] Operation WriteCacheData succeeded.
+[Info: 2021-02-18 07:52:56.2150813: Xal.lib(0)] XAL: [operation 0B3EC700] RefreshDtoken token fetch done.
+[Info: 2021-02-18 07:52:56.2151072: Xal.lib(0)] XAL: [0B3EC700] Operation RefreshDtoken succeeded.
+[Info: 2021-02-18 07:52:56.2151970: Xal.lib(0)] XAL: [037E1870] Operation GetDtoken succeeded.
+[Info: 2021-02-18 07:52:56.2153256: Xal.lib(0)] XAL: [0A7A6F58] Operation InitializeTokenStack succeeded.
+[Info: 2021-02-18 07:52:56.2154076: Xal.lib(0)] XAL: [0369D058] Operation InitializeComponents succeeded.
+[Info: 2021-02-18 07:53:27.3412042: ControllerInterface.cpp(106)] Running method downloadConfiguration
+[Info: 2021-02-18 07:53:27.3412584: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2021-02-18 07:53:27.3413378: GameVersionManager.cpp(688)] resolveVersionID: Resolved :1.12.2-forge1.12.2-14.23.5.2847 to 1.12.2-forge1.12.2-14.23.5.2847
+[Info: 2021-02-18 07:53:27.3413931: GameVersionManager.cpp(438)] Request version details for: 1.12.2-forge1.12.2-14.23.5.2847
+[Info: 2021-02-18 07:53:27.3415448: GameVersionManager.cpp(438)] Request version details for: 1.12.2
+[Info: 2021-02-18 07:53:27.3488827: GameVersionManager.cpp(688)] resolveVersionID: Resolved :1.12.2-forge1.12.2-14.23.5.2847 to 1.12.2-forge1.12.2-14.23.5.2847
+[Info: 2021-02-18 07:53:27.3506083: GameController.cpp(335)] Creating ClientStarter with id 1
+[Info: 2021-02-18 07:53:27.3506697: NetQueue.cpp(154)] NetQueue: Setting up.
+[Info: 2021-02-18 07:53:27.3510363: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Preparing to launch minecraft client for 1.12.2-forge1.12.2-14.23.5.2847
+[Info: 2021-02-18 07:53:27.3521488: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Prepared asset index
+[Info: 2021-02-18 07:53:27.3646511: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Have 1346 total files to check or download
+[Info: 2021-02-18 07:53:27.3671639: NetQueue.cpp(529)] NetQueue: worker thread started.
+[Info: 2021-02-18 07:53:27.3677844: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Waiting for 1346 futures
+[Info: 2021-02-18 07:53:27.3681696: NetQueue.cpp(545)] NetQueue: Starting net action https://s3.amazonaws.com/Minecraft.Download/versions/1.12.2/1.12.2.jar.sha1
+[Info: 2021-02-18 07:53:27.3707173: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847.jar.sha1
+[Info: 2021-02-18 07:53:27.3727124: NetQueue.cpp(545)] NetQueue: Starting net action https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar.sha1
+[Info: 2021-02-18 07:53:27.3732583: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/jline/jline/3.5.1/jline-3.5.1.jar.sha1
+[Info: 2021-02-18 07:53:27.3737468: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar.sha1
+[Info: 2021-02-18 07:53:27.3757219: NetQueue.cpp(545)] NetQueue: Starting net action https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar.sha1
+[Info: 2021-02-18 07:53:27.4553498: NetQueue.cpp(397)] NetQueue: Primary ip: 54.240.186.133, Host: libraries.minecraft.net
+[Info: 2021-02-18 07:53:27.4554137: NetQueue.cpp(473)] NetQueue: Action finished: https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar.sha1
+[Info: 2021-02-18 07:53:27.4561289: NetQueue.cpp(495)] NetQueue: Action finalized: https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar.sha1
+[Info: 2021-02-18 07:53:27.4561946: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar.sha1
+[Info: 2021-02-18 07:53:27.4928488: NetQueue.cpp(397)] NetQueue: Primary ip: 54.240.186.133, Host: libraries.minecraft.net
+[Info: 2021-02-18 07:53:27.4929141: NetQueue.cpp(473)] NetQueue: Action finished: https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar.sha1
+[Info: 2021-02-18 07:53:27.4936065: NetQueue.cpp(495)] NetQueue: Action finalized: https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar.sha1
+[Info: 2021-02-18 07:53:27.4936701: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/com/typesafe/config/1.2.1/config-1.2.1.jar.sha1
+[Info: 2021-02-18 07:53:27.6314783: ControllerInterface.cpp(106)] Running method updateConfiguration
+[Info: 2021-02-18 07:53:27.6551374: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.6552063: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar.sha1
+[Info: 2021-02-18 07:53:27.6558807: NetQueue.cpp(495)] NetQueue: Action finalized: http://files.minecraftforge.net/maven/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar.sha1
+[Info: 2021-02-18 07:53:27.6559352: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar.sha1
+[Info: 2021-02-18 07:53:27.6851529: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.6852257: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847.jar.sha1
+[Info: 2021-02-18 07:53:27.6858197: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847.jar
+[Info: 2021-02-18 07:53:27.6861917: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847.jar.sha1
+[Info: 2021-02-18 07:53:27.6862724: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:27.6865138: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.6941951: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.6942592: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/jline/jline/3.5.1/jline-3.5.1.jar.sha1
+[Info: 2021-02-18 07:53:27.6952120: NetQueue.cpp(495)] NetQueue: Action finalized: http://files.minecraftforge.net/maven/org/jline/jline/3.5.1/jline-3.5.1.jar.sha1
+[Info: 2021-02-18 07:53:27.6952972: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:27.7830881: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.7831546: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar.sha1
+[Info: 2021-02-18 07:53:27.7838728: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar.sha1
+[Info: 2021-02-18 07:53:27.7838959: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+[Info: 2021-02-18 07:53:27.7839307: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:27.7841201: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.7902526: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.7903034: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar.sha1
+[Info: 2021-02-18 07:53:27.7909649: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar.sha1
+[Info: 2021-02-18 07:53:27.7909819: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+[Info: 2021-02-18 07:53:27.7910170: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:27.7912232: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.8359707: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.8360246: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/com/typesafe/config/1.2.1/config-1.2.1.jar.sha1
+[Info: 2021-02-18 07:53:27.8366937: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/com/typesafe/config/1.2.1/config-1.2.1.jar.sha1
+[Info: 2021-02-18 07:53:27.8367151: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/com/typesafe/config/1.2.1/config-1.2.1.jar
+[Info: 2021-02-18 07:53:27.8367433: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar.sha1
+[Info: 2021-02-18 07:53:27.8369466: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.8513378: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.8513925: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:27.8518327: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+[Info: 2021-02-18 07:53:27.8520611: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:27.8521653: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:27.8522891: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.9100426: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.9100932: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9107621: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9107851: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+[Info: 2021-02-18 07:53:27.9108414: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar.sha1
+[Info: 2021-02-18 07:53:27.9111036: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.9209612: NetQueue.cpp(397)] NetQueue: Primary ip: 52.217.84.94, Host: s3.amazonaws.com
+[Info: 2021-02-18 07:53:27.9210119: NetQueue.cpp(473)] NetQueue: Action finished: https://s3.amazonaws.com/Minecraft.Download/versions/1.12.2/1.12.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9214499: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for https://s3.amazonaws.com/Minecraft.Download/versions/1.12.2/1.12.2.jar
+[Info: 2021-02-18 07:53:27.9216841: NetQueue.cpp(490)] NetQueue: Action failed in finalization: https://s3.amazonaws.com/Minecraft.Download/versions/1.12.2/1.12.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9217776: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9219472: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.9311099: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.9311620: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:27.9318352: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:27.9318872: NetQueue.cpp(545)] NetQueue: Starting net action https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar.sha1
+[Info: 2021-02-18 07:53:27.9316018: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+[Info: 2021-02-18 07:53:27.9321190: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.9434053: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:27.9434535: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9441547: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9442062: NetQueue.cpp(545)] NetQueue: Starting net action https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar.sha1
+[Info: 2021-02-18 07:53:27.9443194: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+[Info: 2021-02-18 07:53:27.9446219: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:27.9572018: NetQueue.cpp(397)] NetQueue: Primary ip: 54.240.186.133, Host: libraries.minecraft.net
+[Info: 2021-02-18 07:53:27.9572514: NetQueue.cpp(473)] NetQueue: Action finished: https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar.sha1
+[Info: 2021-02-18 07:53:27.9579165: NetQueue.cpp(495)] NetQueue: Action finalized: https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar.sha1
+[Info: 2021-02-18 07:53:27.9579970: NetQueue.cpp(545)] NetQueue: Starting net action https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9685740: NetQueue.cpp(397)] NetQueue: Primary ip: 54.240.186.133, Host: libraries.minecraft.net
+[Info: 2021-02-18 07:53:27.9686220: NetQueue.cpp(473)] NetQueue: Action finished: https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar.sha1
+[Info: 2021-02-18 07:53:27.9693144: NetQueue.cpp(495)] NetQueue: Action finalized: https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar.sha1
+[Info: 2021-02-18 07:53:27.9693676: NetQueue.cpp(545)] NetQueue: Starting net action https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar.sha1
+[Info: 2021-02-18 07:53:27.9835938: NetQueue.cpp(397)] NetQueue: Primary ip: 54.240.186.133, Host: libraries.minecraft.net
+[Info: 2021-02-18 07:53:27.9836448: NetQueue.cpp(473)] NetQueue: Action finished: https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9843606: NetQueue.cpp(495)] NetQueue: Action finalized: https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar.sha1
+[Info: 2021-02-18 07:53:27.9844514: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar.sha1
+[Info: 2021-02-18 07:53:27.9871228: NetQueue.cpp(397)] NetQueue: Primary ip: 54.240.186.133, Host: libraries.minecraft.net
+[Info: 2021-02-18 07:53:27.9871669: NetQueue.cpp(473)] NetQueue: Action finished: https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar.sha1
+[Info: 2021-02-18 07:53:27.9879728: NetQueue.cpp(495)] NetQueue: Action finalized: https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar.sha1
+[Info: 2021-02-18 07:53:28.0081835: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:28.0082242: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar.sha1
+[Info: 2021-02-18 07:53:28.0088967: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar.sha1
+[Info: 2021-02-18 07:53:28.0090548: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+[Info: 2021-02-18 07:53:28.0092256: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:28.0680476: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:28.0680882: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:28.0685682: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+[Info: 2021-02-18 07:53:28.0688264: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar.sha1
+[Info: 2021-02-18 07:53:28.0690545: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:28.0826124: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:28.0826518: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:28.0833745: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.sha1
+[Info: 2021-02-18 07:53:28.0834891: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+[Info: 2021-02-18 07:53:28.0837631: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:28.1911997: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:28.1912417: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar.sha1
+[Info: 2021-02-18 07:53:28.1919267: NetQueue.cpp(490)] NetQueue: Action failed in finalization: http://files.minecraftforge.net/maven/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar.sha1
+[Info: 2021-02-18 07:53:28.1924916: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:28.1925238: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar.sha1
+[Info: 2021-02-18 07:53:28.1932261: NetQueue.cpp(495)] NetQueue: Action finalized: http://files.minecraftforge.net/maven/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar.sha1
+[Info: 2021-02-18 07:53:28.2084234: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for http://files.minecraftforge.net/maven/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+[Info: 2021-02-18 07:53:28.2086077: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-02-18 07:53:28.2752282: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Checking installations.
+[Info: 2021-02-18 07:53:28.2758152: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Minecraft client 1.12.2-forge1.12.2-14.23.5.2847 is ready to start.
+[Info: 2021-02-18 07:53:28.2758441: GameController.cpp(428)] Starting game with token 1
+[Info: 2021-02-18 07:53:28.2758812: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Starting!
+[Info: 2021-02-18 07:53:28.2759231: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Downloading 2 files
+[Info: 2021-02-18 07:53:28.2760613: NetQueue.cpp(545)] NetQueue: Starting net action http://files.minecraftforge.net/maven/org/jline/jline/3.5.1/jline-3.5.1.jar
+[Info: 2021-02-18 07:53:29.8836858: NetQueue.cpp(397)] NetQueue: Primary ip: 142.44.226.189, Host: files.minecraftforge.net
+[Info: 2021-02-18 07:53:29.8837304: NetQueue.cpp(473)] NetQueue: Action finished: http://files.minecraftforge.net/maven/org/jline/jline/3.5.1/jline-3.5.1.jar
+[Info: 2021-02-18 07:53:29.8838762: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Download from http://files.minecraftforge.net/maven/org/jline/jline/3.5.1/jline-3.5.1.jar passed checksum check.
+[Info: 2021-02-18 07:53:29.8839254: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Downloaded http://files.minecraftforge.net/maven/org/jline/jline/3.5.1/jline-3.5.1.jar to E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+[Info: 2021-02-18 07:53:29.8839470: NetQueue.cpp(495)] NetQueue: Action finalized: http://files.minecraftforge.net/maven/org/jline/jline/3.5.1/jline-3.5.1.jar
+[Info: 2021-02-18 07:53:29.8840468: NetQueue.cpp(545)] NetQueue: Starting net action https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar
+[Info: 2021-02-18 07:53:29.8976591: NetQueue.cpp(397)] NetQueue: Primary ip: 54.240.186.133, Host: libraries.minecraft.net
+[Info: 2021-02-18 07:53:29.8977109: NetQueue.cpp(473)] NetQueue: Action finished: https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar
+[Info: 2021-02-18 07:53:29.8978685: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Download from https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar passed checksum check.
+[Info: 2021-02-18 07:53:29.8978974: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Downloaded https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar to E:\Users\ersho\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[Info: 2021-02-18 07:53:29.8979189: NetQueue.cpp(495)] NetQueue: Action finalized: https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar
+[Info: 2021-02-18 07:53:29.8979311: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Downloads successful
+[Info: 2021-02-18 07:53:29.8979692: GameCallbacks.cpp(162)] Launcher/launcher (main) Info TIMER: Downloads took 1 seconds.
+[Info: 2021-02-18 07:53:29.8980223: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Extracting 3 files!
+[Info: 2021-02-18 07:53:29.9185557: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Version does not support log configuration, will assume one plaintext entry per line
+[Info: 2021-02-18 07:53:29.9186181: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Installing versions!
+[Info: 2021-02-18 07:53:29.9193755: ClientStarter.cpp(818)] Java argument:-Dos.name=Windows 10
+[Info: 2021-02-18 07:53:29.9194006: ClientStarter.cpp(818)] Java argument:-Dos.version=10.0
+[Info: 2021-02-18 07:53:29.9194165: ClientStarter.cpp(818)] Java argument:-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+[Info: 2021-02-18 07:53:29.9194348: ClientStarter.cpp(818)] Java argument:-Djava.library.path=E:\Users\ersho\AppData\Roaming\.minecraft\bin\8414-9cb0-8f37-64f8
+[Info: 2021-02-18 07:53:29.9194500: ClientStarter.cpp(818)] Java argument:-Dminecraft.launcher.brand=minecraft-launcher
+[Info: 2021-02-18 07:53:29.9194664: ClientStarter.cpp(818)] Java argument:-Dminecraft.launcher.version=2.2.1431
+[Info: 2021-02-18 07:53:29.9194863: ClientStarter.cpp(818)] Java argument:-Dminecraft.client.jar=E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.jar
+[Info: 2021-02-18 07:53:29.9195003: ClientStarter.cpp(818)] Java argument:-cp
+[Info: 2021-02-18 07:53:29.9195288: ClientStarter.cpp(818)] Java argument:E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;E:\Users\ersho\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;E:\Users\ersho\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.jar
+[Info: 2021-02-18 07:53:29.9195676: ClientStarter.cpp(818)] Java argument:-Xmx2G
+[Info: 2021-02-18 07:53:29.9195822: ClientStarter.cpp(818)] Java argument:-XX:+UnlockExperimentalVMOptions
+[Info: 2021-02-18 07:53:29.9195959: ClientStarter.cpp(818)] Java argument:-XX:+UseG1GC
+[Info: 2021-02-18 07:53:29.9196091: ClientStarter.cpp(818)] Java argument:-XX:G1NewSizePercent=20
+[Info: 2021-02-18 07:53:29.9196229: ClientStarter.cpp(818)] Java argument:-XX:G1ReservePercent=20
+[Info: 2021-02-18 07:53:29.9196359: ClientStarter.cpp(818)] Java argument:-XX:MaxGCPauseMillis=50
+[Info: 2021-02-18 07:53:29.9196489: ClientStarter.cpp(818)] Java argument:-XX:G1HeapRegionSize=32M
+[Info: 2021-02-18 07:53:29.9196881: ClientStarter.cpp(841)] Starting game in folder ...\.minecraft using java executable ...\MineCraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2021-02-18 07:53:29.9197349: Process_Windows.cpp(33)] Creating process ...\MineCraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2021-02-18 07:53:29.9207632: NetQueue.cpp(161)] NetQueue: Initiating shutdown.
+[Info: 2021-02-18 07:53:29.9207932: NetQueue.cpp(167)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-02-18 07:53:29.9215103: NetQueue.cpp(641)] NetQueue: Worker thread shutting down.
+[Info: 2021-02-18 07:53:29.9217852: NetQueue.cpp(170)] NetQueue: Done.
+[Info: 2021-02-18 07:53:29.9219268: Process_Windows.cpp(102)] Starting process ...\MineCraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2021-02-18 07:53:29.9651663: Process_Windows.cpp(153)] Read thread is 11944
+[Info: 2021-02-18 07:53:29.9654520: client_handler.cpp(704)] ClientHandler::NotifyBrowserClosing
+[Info: 2021-02-18 07:53:29.9656150: browser_window.cpp(56)] BrowserWindow::OnBrowserClosing
+[Info: 2021-02-18 07:53:29.9879389: browser_window.cpp(72)] BrowserWindow::OnBrowserClosed
+[Info: 2021-02-18 07:53:29.9881453: root_window_manager.cpp(326)] Main window has been closed: 0369DFB0
+[Info: 2021-02-18 07:53:29.9882031: root_window_manager.cpp(335)] All windows are gone.
+[Info: 2021-02-18 07:53:29.9882340: root_window_manager.cpp(337)] Checking if we can close the application...
+[Info: 2021-02-18 07:53:29.9882642: main_context.cpp(233)] Hiding launcher!
+[Info: 2021-02-18 07:53:30.7973133: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[Info: 2021-02-18 07:53:30.8063301: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[Info: 2021-02-18 07:53:30.8066372: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[Info: 2021-02-18 07:53:30.8215675: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[Info: 2021-02-18 07:53:30.8219144: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at E:\Games\MineCraft Launcher\runtime\jre-x64
+[Info: 2021-02-18 07:53:30.9020147: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[Info: 2021-02-18 07:53:30.9038547: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[Info: 2021-02-18 07:53:30.9062536: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [FML]: Searching E:\Users\ersho\AppData\Roaming\.minecraft\mods for mods
+[Info: 2021-02-18 07:53:30.9078559: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[Info: 2021-02-18 07:53:30.9083847: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[Info: 2021-02-18 07:53:30.9089120: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[Info: 2021-02-18 07:53:30.9101111: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[Info: 2021-02-18 07:53:30.9103075: GameCallbacks.cpp(162)] Game/game () Info [10:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[Info: 2021-02-18 07:53:32.4516203: GameCallbacks.cpp(162)] Game/game () Info [10:53:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[Info: 2021-02-18 07:53:32.4523411: GameCallbacks.cpp(162)] Game/game () Info [10:53:32] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[Info: 2021-02-18 07:53:32.4527595: GameCallbacks.cpp(162)] Game/game () Info [10:53:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[Info: 2021-02-18 07:53:32.4533637: GameCallbacks.cpp(162)] Game/game () Info [10:53:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[Info: 2021-02-18 07:53:32.6574769: GameCallbacks.cpp(162)] Game/game () Info [10:53:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[Info: 2021-02-18 07:53:32.6580936: GameCallbacks.cpp(162)] Game/game () Info [10:53:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[Info: 2021-02-18 07:53:32.6704622: GameCallbacks.cpp(162)] Game/game () Info [10:53:32] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[Info: 2021-02-18 07:53:33.4455835: GameCallbacks.cpp(162)] Game/game () Info [10:53:33] [Client thread/INFO] [minecraft/Minecraft]: Setting user: KaBaN_YeBaM
+[Info: 2021-02-18 07:53:35.7913321: GameCallbacks.cpp(162)] Game/game () Info [10:53:35] [Client thread/INFO] [minecraft/Minecraft]: LWJGL Version: 2.9.4
+[Info: 2021-02-18 07:53:36.4518225: GameCallbacks.cpp(162)] Game/game () Info [10:53:36] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
+[Info: 2021-02-18 07:53:36.4680664: GameCallbacks.cpp(162)] Game/game () Info [10:53:36] [Client thread/INFO] [FML]: -- System Details --
+[Info: 2021-02-18 07:53:36.4681242: GameCallbacks.cpp(162)] Game/game () Info Details:
+[Info: 2021-02-18 07:53:36.4681452: GameCallbacks.cpp(162)] Game/game () Info Minecraft Version: 1.12.2
+[Info: 2021-02-18 07:53:36.4681638: GameCallbacks.cpp(162)] Game/game () Info Operating System: Windows 10 (amd64) version 10.0
+[Info: 2021-02-18 07:53:36.4681818: GameCallbacks.cpp(162)] Game/game () Info Java Version: 1.8.0_51, Oracle Corporation
+[Info: 2021-02-18 07:53:36.4681996: GameCallbacks.cpp(162)] Game/game () Info Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[Info: 2021-02-18 07:53:36.4682188: GameCallbacks.cpp(162)] Game/game () Info Memory: 268021400 bytes (255 MB) / 536870912 bytes (512 MB) up to 2147483648 bytes (2048 MB)
+[Info: 2021-02-18 07:53:36.4682378: GameCallbacks.cpp(162)] Game/game () Info JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+[Info: 2021-02-18 07:53:36.4682587: GameCallbacks.cpp(162)] Game/game () Info IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+[Info: 2021-02-18 07:53:36.4682746: GameCallbacks.cpp(162)] Game/game () Info FML:
+[Info: 2021-02-18 07:53:36.4682905: GameCallbacks.cpp(162)] Game/game () Info Loaded coremods (and transformers):
+[Info: 2021-02-18 07:53:36.4683077: GameCallbacks.cpp(162)] Game/game () Info GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 460.89' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'
+[Info: 2021-02-18 07:53:36.5269979: GameCallbacks.cpp(162)] Game/game () Info [10:53:36] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[Info: 2021-02-18 07:53:36.5395407: GameCallbacks.cpp(162)] Game/game () Info [10:53:36] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[Info: 2021-02-18 07:53:36.5513312: GameCallbacks.cpp(162)] Game/game () Info [10:53:36] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[Info: 2021-02-18 07:53:36.5985104: GameCallbacks.cpp(162)] Game/game () Info [10:53:36] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[Info: 2021-02-18 07:53:36.8734360: GameCallbacks.cpp(162)] Game/game () Info [10:53:36] [Client thread/INFO] [FML]: Searching E:\Users\ersho\AppData\Roaming\.minecraft\mods for mods
+[Info: 2021-02-18 07:53:37.6973683: GameCallbacks.cpp(162)] Game/game () Info [10:53:37] [Client thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[Info: 2021-02-18 07:53:37.9139442: GameCallbacks.cpp(162)] Game/game () Info [10:53:37] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[Info: 2021-02-18 07:53:37.9141719: GameCallbacks.cpp(162)] Game/game () Info [10:53:37] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[Info: 2021-02-18 07:53:38.2302947: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[Info: 2021-02-18 07:53:38.3154251: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[Info: 2021-02-18 07:53:38.3269179: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+[Info: 2021-02-18 07:53:38.3284313: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[Info: 2021-02-18 07:53:38.3305791: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[Info: 2021-02-18 07:53:38.3977828: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[Info: 2021-02-18 07:53:38.4023498: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[Info: 2021-02-18 07:53:38.4028818: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Applying holder lookups
+[Info: 2021-02-18 07:53:38.4061249: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Holder lookups applied
+[Info: 2021-02-18 07:53:38.4063901: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Applying holder lookups
+[Info: 2021-02-18 07:53:38.4064194: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Holder lookups applied
+[Info: 2021-02-18 07:53:38.4064389: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Applying holder lookups
+[Info: 2021-02-18 07:53:38.4138137: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Holder lookups applied
+[Info: 2021-02-18 07:53:38.4138801: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Applying holder lookups
+[Info: 2021-02-18 07:53:38.4139008: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Holder lookups applied
+[Info: 2021-02-18 07:53:38.4139179: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Injecting itemstacks
+[Info: 2021-02-18 07:53:38.4139341: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Client thread/INFO] [FML]: Itemstack injection complete
+[Info: 2021-02-18 07:53:38.7080139: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2854
+[Info: 2021-02-18 07:53:38.8110212: GameCallbacks.cpp(162)] Game/game () Info [10:53:38] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 90674800 nanos
+[Info: 2021-02-18 07:53:39.4195429: GameCallbacks.cpp(162)] Game/game () Info [10:53:39] [Sound Library Loader/INFO] [minecraft/SoundManager]: Starting up SoundSystem...
+[Info: 2021-02-18 07:53:39.6486637: GameCallbacks.cpp(162)] Game/game () Info [10:53:39] [Thread-5/INFO] [minecraft/SoundManager]: Initializing LWJGL OpenAL
+[Info: 2021-02-18 07:53:39.6487286: GameCallbacks.cpp(162)] Game/game () Info [10:53:39] [Thread-5/INFO] [minecraft/SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[Info: 2021-02-18 07:53:39.7227555: GameCallbacks.cpp(162)] Game/game () Info [10:53:39] [Thread-5/INFO] [minecraft/SoundManager]: OpenAL initialized.
+[Info: 2021-02-18 07:53:40.0219684: GameCallbacks.cpp(162)] Game/game () Info [10:53:40] [Sound Library Loader/INFO] [minecraft/SoundManager]: Sound engine started
+[Info: 2021-02-18 07:53:43.0441289: GameCallbacks.cpp(162)] Game/game () Info [10:53:43] [Client thread/INFO] [FML]: Max texture size: 16384
+[Info: 2021-02-18 07:53:46.5823873: GameCallbacks.cpp(162)] Game/game () Info [10:53:46] [Client thread/INFO] [minecraft/TextureMap]: Created: 512x512 textures-atlas
+[Info: 2021-02-18 07:53:47.3982008: GameCallbacks.cpp(162)] Game/game () Info [10:53:47] [Client thread/INFO] [FML]: Applying holder lookups
+[Info: 2021-02-18 07:53:47.3982769: GameCallbacks.cpp(162)] Game/game () Info [10:53:47] [Client thread/INFO] [FML]: Holder lookups applied
+[Info: 2021-02-18 07:53:47.4037095: GameCallbacks.cpp(162)] Game/game () Info [10:53:47] [Client thread/INFO] [FML]: Injecting itemstacks
+[Info: 2021-02-18 07:53:47.4038319: GameCallbacks.cpp(162)] Game/game () Info [10:53:47] [Client thread/INFO] [FML]: Itemstack injection complete
+[Info: 2021-02-18 07:53:47.5465324: GameCallbacks.cpp(162)] Game/game () Info [10:53:47] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[Info: 2021-02-18 07:53:47.6028444: GameCallbacks.cpp(162)] Game/game () Info [10:53:47] [Client thread/INFO] [mojang/NarratorWindows]: Narrator library for x64 successfully loaded
+[Info: 2021-02-18 07:54:01.8334248: GameCallbacks.cpp(162)] Game/game () Info [10:54:01] [Client thread/INFO] [minecraft/Minecraft]: Stopping!
+[Info: 2021-02-18 07:54:01.8337405: GameCallbacks.cpp(162)] Game/game () Info [10:54:01] [Client thread/INFO] [minecraft/SoundManager]: SoundSystem shutting down...
+[Info: 2021-02-18 07:54:02.0386662: GameCallbacks.cpp(162)] Game/game () Info [10:54:02] [Client thread/WARN] [minecraft/SoundManager]: Author: Paul Lamb, www.paulscode.com
+[Info: 2021-02-18 07:54:02.2256638: GameCallbacks.cpp(162)] Launcher/monitor (Process Monitor) Info Process ended with exit code 0
+[Info: 2021-02-18 07:54:02.2299093: GameController.cpp(463)] Game closed with id 1
+[Info: 2021-02-18 07:54:02.2708120: Process_Windows.cpp(283)] Finish any outstanding read/writes to the stdout stream
+[Info: 2021-02-18 07:54:02.2708603: main_context.cpp(238)] Shutting down!
+[Info: 2021-02-18 07:54:02.2729242: Xal.lib(0)] XAL: Cleanup starting
+[Info: 2021-02-18 07:54:02.3033255: Xal.lib(0)] XAL: @@@ Terminating with 1 queues
+[Info: 2021-02-18 07:54:02.3033902: Xal.lib(0)] XAL: Cleanup pending
+[Info: 2021-02-18 07:54:02.3034191: Xal.lib(0)] XAL: Cleanup done
+[Info: 2021-02-18 07:54:02.5065406: NetQueue.cpp(161)] NetQueue: Initiating shutdown.
+[Info: 2021-02-18 07:54:02.5065884: NetQueue.cpp(167)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-02-18 07:54:02.5079686: NetQueue.cpp(641)] NetQueue: Worker thread shutting down.
+[Info: 2021-02-18 07:54:02.5081603: NetQueue.cpp(170)] NetQueue: Done.
+[Info: 2021-02-18 07:54:02.5087619: NetQueue.cpp(161)] NetQueue: Initiating shutdown.
+[Info: 2021-02-18 07:54:02.5087874: NetQueue.cpp(167)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-02-18 07:54:02.5106530: NetQueue.cpp(641)] NetQueue: Worker thread shutting down.
+[Info: 2021-02-18 07:54:02.5108909: NetQueue.cpp(170)] NetQueue: Done.
+[Info: 2021-02-18 07:54:02.5211279: ProductManager.cpp(128)] Stopping ProductManager..
+[Info: 2021-02-18 07:54:02.5715093: ProductManager.cpp(140)] ProductManager was stopped successfully
+[Info: 2021-02-18 07:54:02.5720188: StartLibrary.cpp(100)] Launcher ended with 0
+[Info: 2021-02-18 07:54:02.5720908: NetQueue.cpp(155)] NetQueue: Initiating shutdown.
+[Info: 2021-02-18 07:54:02.5721203: NetQueue.cpp(161)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-02-18 07:54:02.5731987: NetQueue.cpp(633)] NetQueue: Worker thread shutting down.
+[Info: 2021-02-18 07:54:02.5734279: NetQueue.cpp(164)] NetQueue: Done.

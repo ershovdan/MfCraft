@@ -1,0 +1,28 @@
+{
+  "accounts" : {
+    "dd0257599b764ea081e6b1babaf6f004" : {
+      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0OTIzYWYxODU1MDRmOWQ3YmJlNTMyMjc1ZjkwOTMwMCIsInlnZ3QiOiI5NzExZGZiMTg4ZWI0Nzg5OGQ5YzJmN2ZlMTBmODNlMiIsInNwciI6IjY3OGJmNGFlNzJmYTRmZTBhYmNkODI2N2QxODBiNGMwIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MTM4MDc1NzIsImlhdCI6MTYxMzYzNDc3Mn0.W3nmFvqL1ItLPyaWLLh1n55y5NzC3aoIbVJrNrHFOjg",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "legacy" : false,
+      "localId" : "dd0257599b764ea081e6b1babaf6f004",
+      "minecraftProfile" : {
+        "id" : "678bf4ae72fa4fe0abcd8267d180b4c0",
+        "name" : "KaBaN_YeBaM"
+      },
+      "persistent" : true,
+      "remoteId" : "4923af185504f9d7bbe532275f909300",
+      "type" : "Mojang",
+      "userProperites" : 
+      [
+        {
+          "name" : "preferredLanguage",
+          "value" : "en-us"
+        }
+      ],
+      "username" : "thabel0101@gmail.com"
+    }
+  },
+  "activeAccountLocalId" : "dd0257599b764ea081e6b1babaf6f004",
+  "mojangClientToken" : "4301b7bb-ac56-437d-b16c-c2b17be2ff21"
+}

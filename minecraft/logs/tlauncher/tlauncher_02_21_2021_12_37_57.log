@@ -1,0 +1,86 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.75 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 21.02.2021 12:37:59
+---
+run double running protection
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 16343 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+ NVIDIA GeForce GTX 1050 Ti, GeForce GTX 1050 Ti, 12189 MB, NVIDIA GeForce GTX 1050 Ti, GeForce GTX 1050 Ti, 12189 MB
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.75&client=11ca9674-b09c-41e4-9d19-4fd9345f917d
+[Updater] Request time: 46 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 31 / 196 MB
+Garbage collector completed: 17 / 233 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: E:\programing\MinecraftLauncher2\minecraft
+[JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+[ProfileManager] Refreshing profiles from: E:\programing\MinecraftLauncher2\minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+[Loading] LOADING_WINDOW
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 171 ms.
+[JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 0
+[Browser@1989204627] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+Started! (3077 ms.)
+[Loading] SUCCESS
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[TLauncher] show tlauncher!!!
+[Double running] clear time label
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 70 ms.
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 20 ms.
+[SkinVersionList] Got in 36 ms
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 78 ms.
+[ExtraVersionList] Got in 100 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 140 ms.
+[OfficialVersionList] Got in 244 ms
+[VersionManager] Versions has been refreshed (357 ms)
+[Version:1.12.2-forge-14.23.5.2855] Resolving...
+[Version:1.12.2-forge-14.23.5.2855] Inherits from 1.12.2
+[Version:1.12.2-forge-14.23.5.2855] Resolving...
+[Version:1.12.2-forge-14.23.5.2855] Inherits from 1.12.2
+[Version:1.12.2-forge-14.23.5.2855] Resolving...
+[Version:1.12.2-forge-14.23.5.2855] Inherits from 1.12.2
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+run server on  37842
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 31 ms.
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 33 ms.
+[OS] Trying to open folder: E:\programing\MinecraftLauncher2\minecraft\
+[OS] Trying to open folder: E:\programing\MinecraftLauncher2\minecraft\
+Good bye!
+[TLauncherManager] before clearLibrary E:\programing\MinecraftLauncher2\minecraft\mods\AmbientSounds_v3.0.18_mc1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\backpack_3.0.2_1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\Baubles_1.12_1.5.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\BetterFps_1.12.2_1.4.8.jar E:\programing\MinecraftLauncher2\minecraft\mods\Botania_1.12.2_r1.10_363.jar E:\programing\MinecraftLauncher2\minecraft\mods\car-1.12.2-1.2.12.jar E:\programing\MinecraftLauncher2\minecraft\mods\CreativeCore_v1.10.45_mc1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\forestry_1.12.2_5.8.2.414.jar E:\programing\MinecraftLauncher2\minecraft\mods\furniture_6.3.0_1.12.2 (2).jar E:\programing\MinecraftLauncher2\minecraft\mods\Galacticraft-Planets-1.12.2-4.0.2.281.jar E:\programing\MinecraftLauncher2\minecraft\mods\GalacticraftCore-1.12.2-4.0.2.281.jar E:\programing\MinecraftLauncher2\minecraft\mods\gravestone_mc1.12.2_1.10.0.jar E:\programing\MinecraftLauncher2\minecraft\mods\industrialcraft_2_2.8.221_ex112.jar E:\programing\MinecraftLauncher2\minecraft\mods\ironchest-1.12.2-7.0.72.847.jar E:\programing\MinecraftLauncher2\minecraft\mods\jei_1.12.2_4.16.1.301.jar E:\programing\MinecraftLauncher2\minecraft\mods\journeymap_1.12.2_5.7.1.jar E:\programing\MinecraftLauncher2\minecraft\mods\Mantle-1.12-1.3.3.55.jar E:\programing\MinecraftLauncher2\minecraft\mods\mcw_roofs_1.0.2_mc1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\mcw_windows_1.0.0_mc1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\MicdoodleCore-1.12.2-4.0.2.281.jar E:\programing\MinecraftLauncher2\minecraft\mods\MorePlayerModels_1.12.2_05Dec19.jar E:\programing\MinecraftLauncher2\minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar E:\programing\MinecraftLauncher2\minecraft\mods\SoundFilters_0.12.1_for_1.12.jar E:\programing\MinecraftLauncher2\minecraft\mods\Stellar_API_0.7.4.1.1.jar E:\programing\MinecraftLauncher2\minecraft\mods\Stellar_Sky_0.7.5.1.6.jar E:\programing\MinecraftLauncher2\minecraft\mods\TConstruct-1.12.2-2.13.0.183.jar E:\programing\MinecraftLauncher2\minecraft\mods\thutcore-1.12.2-5.19.8.jar E:\programing\MinecraftLauncher2\minecraft\mods\thuttech-1.12.2-6.1.5.jar E:\programing\MinecraftLauncher2\minecraft\mods\trafficcontrol_1.12.2_0.3.5.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary E:\programing\MinecraftLauncher2\minecraft\mods\AmbientSounds_v3.0.18_mc1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\backpack_3.0.2_1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\Baubles_1.12_1.5.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\BetterFps_1.12.2_1.4.8.jar E:\programing\MinecraftLauncher2\minecraft\mods\Botania_1.12.2_r1.10_363.jar E:\programing\MinecraftLauncher2\minecraft\mods\car-1.12.2-1.2.12.jar E:\programing\MinecraftLauncher2\minecraft\mods\CreativeCore_v1.10.45_mc1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\forestry_1.12.2_5.8.2.414.jar E:\programing\MinecraftLauncher2\minecraft\mods\furniture_6.3.0_1.12.2 (2).jar E:\programing\MinecraftLauncher2\minecraft\mods\Galacticraft-Planets-1.12.2-4.0.2.281.jar E:\programing\MinecraftLauncher2\minecraft\mods\GalacticraftCore-1.12.2-4.0.2.281.jar E:\programing\MinecraftLauncher2\minecraft\mods\gravestone_mc1.12.2_1.10.0.jar E:\programing\MinecraftLauncher2\minecraft\mods\industrialcraft_2_2.8.221_ex112.jar E:\programing\MinecraftLauncher2\minecraft\mods\ironchest-1.12.2-7.0.72.847.jar E:\programing\MinecraftLauncher2\minecraft\mods\jei_1.12.2_4.16.1.301.jar E:\programing\MinecraftLauncher2\minecraft\mods\journeymap_1.12.2_5.7.1.jar E:\programing\MinecraftLauncher2\minecraft\mods\Mantle-1.12-1.3.3.55.jar E:\programing\MinecraftLauncher2\minecraft\mods\mcw_roofs_1.0.2_mc1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\mcw_windows_1.0.0_mc1.12.2.jar E:\programing\MinecraftLauncher2\minecraft\mods\MicdoodleCore-1.12.2-4.0.2.281.jar E:\programing\MinecraftLauncher2\minecraft\mods\MorePlayerModels_1.12.2_05Dec19.jar E:\programing\MinecraftLauncher2\minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar E:\programing\MinecraftLauncher2\minecraft\mods\SoundFilters_0.12.1_for_1.12.jar E:\programing\MinecraftLauncher2\minecraft\mods\Stellar_API_0.7.4.1.1.jar E:\programing\MinecraftLauncher2\minecraft\mods\Stellar_Sky_0.7.5.1.6.jar E:\programing\MinecraftLauncher2\minecraft\mods\TConstruct-1.12.2-2.13.0.183.jar E:\programing\MinecraftLauncher2\minecraft\mods\thutcore-1.12.2-5.19.8.jar E:\programing\MinecraftLauncher2\minecraft\mods\thuttech-1.12.2-6.1.5.jar E:\programing\MinecraftLauncher2\minecraft\mods\trafficcontrol_1.12.2_0.3.5.jar
+flush now
